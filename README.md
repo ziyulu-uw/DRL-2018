@@ -1,4 +1,4 @@
-# Hybrid deep reinforcement learning: combine the best of evolutionary computation and policy gradient methods (NYU Shanghai DURF 2018)
+# Hybrid deep reinforcement learning: combine the best of gradient-based and gradient-free methods (NYU Shanghai DURF 2018)
 ------------
 This repository features my research project on deep reinforcement learning in my sophomore year at NYU Shanghai (advised by Prof. Keith Ross, supported by NYU Shanghai Dean's Undergraduate Research Fund). In this project, I experimented with combining Policy Gradient methods, including vanilla Policy Gradient (aka REINFORCE), Actor-Critic, and Proximal Policy Optimization (PPO) with Evolution Strategies to develop a hybrid algorithm with improved sample efficiency. Performances of the proposed algorithms were evaluated on MuJoCo benchmarks.
 
